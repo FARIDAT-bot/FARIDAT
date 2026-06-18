@@ -1,0 +1,91 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(13,13,52);
+    height: 100%;
+    width: 100%;
+}
+.image-section img{
+    margin-left: 15rem;
+    margin-right: _1rem;
+    height: 70%;
+    margin-top: 4rem;
+}
+.form-section{
+    margin-left: 2rem;
+    margin-top: 4rem;
+    height: 13rem;
+    font-size: 34px; 
+    font-family: Georgia, 'Times New Roman';
+}
+p{
+    margin-top: 1.5rem;
+    font-size: 13px;
+    width: 60%;
+    color: white;
+}
+h2{
+    font-size: 46px;
+    color: white;
+}
+.google-btn{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    background-color: rgb(31,31,115);
+    border: 1px solid blue;
+    border-radius: 6rem;
+    padding: 0.5rem;
+    width: 200px;
+    outline: none;
+    border-style: none;
+}
+.sign-up{
+    padding-left:10px ;
+    justify-content: center;
+}
+.f-name{
+    font-size: 0.6rem;
+    color: beige;
+}
+.placeholder{
+    background-color:rgb(31,31,115);
+    border: 1px solid blue;
+    border-radius: 6rem;
+    padding: 0.5rem;
+    width: 180px;
+    outline: none;
+    border-style: none;
+}
+.rem{
+    border: 1px solid black;
+    border-radius: 6rem;
+    border-style: none;
+    padding: 0.5rem;
+    width: 100px;
+}
+.create-account{
+    background-color: rgb(12,12,14);
+    border: 1px solid blue;
+    color: white;
+    font-family: sans-serif;
+    border-radius: 6rem;
+    padding: 0.5rem;
+    width: 120px;
+    outline: none;
+    border-style: none;}
+    .sign-up link{
+        color: white;}
+        a{
+            background-color: aqua;
+            color: white;
+        }
+        a:hover{
+            background-color: bisque;
+            color: greenyellow;
+        }
+
